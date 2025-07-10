@@ -201,7 +201,7 @@ export const StitchDesign: React.FC = () => {
               <Button 
                 onClick={() => navigate('/menu')}
                 variant="outline" 
-                className="border-2 border-white text-white hover:bg-white hover:text-amber-900 font-semibold rounded-full px-8 py-4 text-lg backdrop-blur-sm transition-all duration-300"
+                className="border-2 border-white text-amber-600 hover:bg-white hover:text-amber-900 font-semibold rounded-full px-8 py-4 text-lg backdrop-blur-sm transition-all duration-300"
               >
                 View Menu
               </Button>
